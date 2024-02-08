@@ -1,0 +1,15 @@
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/bin/Debug/net7.0/HighestPalindrome
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/bin/Debug/net7.0/HighestPalindrome.deps.json
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/bin/Debug/net7.0/HighestPalindrome.runtimeconfig.json
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/bin/Debug/net7.0/HighestPalindrome.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/bin/Debug/net7.0/HighestPalindrome.pdb
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.csproj.AssemblyReference.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.AssemblyInfoInputs.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.AssemblyInfo.cs
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.csproj.CoreCompileInputs.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/refint/HighestPalindrome.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.pdb
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/HighestPalindrome.genruntimeconfig.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/HighestPalindrome/obj/Debug/net7.0/ref/HighestPalindrome.dll

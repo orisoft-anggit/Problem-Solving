@@ -1,0 +1,15 @@
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/bin/Debug/net7.0/WeightedString
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/bin/Debug/net7.0/WeightedString.deps.json
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/bin/Debug/net7.0/WeightedString.runtimeconfig.json
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/bin/Debug/net7.0/WeightedString.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/bin/Debug/net7.0/WeightedString.pdb
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.csproj.AssemblyReference.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.AssemblyInfoInputs.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.AssemblyInfo.cs
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.csproj.CoreCompileInputs.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/refint/WeightedString.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.pdb
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/WeightedString.genruntimeconfig.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/WeightedString/obj/Debug/net7.0/ref/WeightedString.dll

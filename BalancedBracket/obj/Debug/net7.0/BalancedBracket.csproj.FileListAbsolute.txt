@@ -1,0 +1,15 @@
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/bin/Debug/net7.0/BalancedBracket
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/bin/Debug/net7.0/BalancedBracket.deps.json
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/bin/Debug/net7.0/BalancedBracket.runtimeconfig.json
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/bin/Debug/net7.0/BalancedBracket.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/bin/Debug/net7.0/BalancedBracket.pdb
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.csproj.AssemblyReference.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.AssemblyInfoInputs.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.AssemblyInfo.cs
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.csproj.CoreCompileInputs.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/refint/BalancedBracket.dll
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.pdb
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/BalancedBracket.genruntimeconfig.cache
+/Users/anggitmarcellino/Projects/ProblemSolving/BalancedBracket/obj/Debug/net7.0/ref/BalancedBracket.dll
